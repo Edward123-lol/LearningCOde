@@ -11,4 +11,3 @@ print(7 * 5)
 # Now we must add a floating decimal
 print("Here is the floating decimal")
 print(7 * 5 / 1)
-
